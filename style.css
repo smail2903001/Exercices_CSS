@@ -1,0 +1,15 @@
+/* styler un petit sys mosaic */
+
+.mosaic {
+    width: 350px;
+    display: flex;
+    flex-flow: row wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+
+.mosaic .image {
+    margin: 5px 0;
+}
+
